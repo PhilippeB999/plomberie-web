@@ -43,6 +43,8 @@ const COMPETENCIES = [
  {
   "id": "plomb01",
   "order": 1,
+  "code": "307402",
+  "hours": 30,
   "title_fr": "Métier, formation et communication en milieu de travail",
   "title_en": "Trade, Training and Workplace Communication",
   "icon": "🧭",
@@ -241,6 +243,8 @@ const COMPETENCIES = [
  {
   "id": "plomb02",
   "order": 2,
+  "code": "254992",
+  "hours": 30,
   "title_fr": "Santé et sécurité sur les chantiers de construction",
   "title_en": "Construction Site Health and Safety",
   "icon": "🦺",
@@ -439,6 +443,8 @@ const COMPETENCIES = [
  {
   "id": "plomb03",
   "order": 3,
+  "code": "307414",
+  "hours": 60,
   "title_fr": "Manutention d'équipements, de matériaux et de produits",
   "title_en": "Handling Equipment, Materials and Products",
   "icon": "📦",
@@ -637,6 +643,8 @@ const COMPETENCIES = [
  {
   "id": "plomb04",
   "order": 4,
+  "code": "307428",
+  "hours": 120,
   "title_fr": "Systèmes de mécanique de tuyauterie",
   "title_en": "Piping Mechanical Systems",
   "icon": "🔧",
@@ -835,6 +843,8 @@ const COMPETENCIES = [
  {
   "id": "plomb05",
   "order": 5,
+  "code": "307435",
+  "hours": 75,
   "title_fr": "Installation de composants électriques",
   "title_en": "Electrical Component Installation",
   "icon": "🔌",
@@ -1033,6 +1043,8 @@ const COMPETENCIES = [
  {
   "id": "plomb06",
   "order": 6,
+  "code": "307443",
+  "hours": 45,
   "title_fr": "Interprétation de plans et devis",
   "title_en": "Blueprint and Specification Reading",
   "icon": "📐",
@@ -1231,6 +1243,8 @@ const COMPETENCIES = [
  {
   "id": "plomb07",
   "order": 7,
+  "code": "307458",
+  "hours": 120,
   "title_fr": "Installation de réseaux d'évacuation",
   "title_en": "Drainage System Installation",
   "icon": "🚰",
@@ -1429,6 +1443,8 @@ const COMPETENCIES = [
  {
   "id": "plomb08",
   "order": 8,
+  "code": "307468",
+  "hours": 120,
   "title_fr": "Installation de réseaux de ventilation",
   "title_en": "Ventilation System Installation",
   "icon": "💨",
@@ -1627,6 +1643,8 @@ const COMPETENCIES = [
  {
   "id": "plomb09",
   "order": 9,
+  "code": "307478",
+  "hours": 120,
   "title_fr": "Dispositifs électriques et électroniques",
   "title_en": "Electrical and Electronic Devices",
   "icon": "⚡",
@@ -1825,6 +1843,8 @@ const COMPETENCIES = [
  {
   "id": "plomb10",
   "order": 10,
+  "code": "307485",
+  "hours": 75,
   "title_fr": "Soudage et brasage",
   "title_en": "Welding and Brazing",
   "icon": "🔥",
@@ -2023,6 +2043,8 @@ const COMPETENCIES = [
  {
   "id": "plomb11",
   "order": 11,
+  "code": "307498",
+  "hours": 120,
   "title_fr": "Installation de systèmes de distribution d'eau chaude et d'eau froide, d'équipements sanitaires et d'accessoires",
   "title_en": "Hot and Cold Water Distribution, Fixture and Accessory Installation",
   "icon": "🚿",
@@ -2221,6 +2243,8 @@ const COMPETENCIES = [
  {
   "id": "plomb12",
   "order": 12,
+  "code": "307505",
+  "hours": 75,
   "title_fr": "Entretien et réparation de la tuyauterie, des équipements sanitaires et des accessoires",
   "title_en": "Piping, Fixture and Accessory Maintenance and Repair",
   "icon": "🛠️",
@@ -2419,6 +2443,8 @@ const COMPETENCIES = [
  {
   "id": "plomb13",
   "order": 13,
+  "code": "307513",
+  "hours": 45,
   "title_fr": "Information relative aux notions d'énergie et de chauffage",
   "title_en": "Energy and Heating Concepts",
   "icon": "🔋",
@@ -2617,6 +2643,8 @@ const COMPETENCIES = [
  {
   "id": "plomb14",
   "order": 14,
+  "code": "307528",
+  "hours": 120,
   "title_fr": "Installation, entretien et réparation d'appareils alimentés au mazout",
   "title_en": "Oil-Fired Appliance Installation, Maintenance and Repair",
   "icon": "🛢️",
@@ -2815,6 +2843,8 @@ const COMPETENCIES = [
  {
   "id": "plomb15",
   "order": 15,
+  "code": "307538",
+  "hours": 120,
   "title_fr": "Installation et réparation de systèmes de chauffage directs et renversés",
   "title_en": "Direct and Indirect-Fired Heating System Installation and Repair",
   "icon": "🔥",
@@ -3013,6 +3043,8 @@ const COMPETENCIES = [
  {
   "id": "plomb16",
   "order": 16,
+  "code": "307544",
+  "hours": 60,
   "title_fr": "Installation et réparation de systèmes de chauffage périmétriques",
   "title_en": "Baseboard Heating System Installation and Repair",
   "icon": "🌡️",
@@ -3211,6 +3243,8 @@ const COMPETENCIES = [
  {
   "id": "plomb17",
   "order": 17,
+  "code": "307558",
+  "hours": 120,
   "title_fr": "Installation de systèmes alimentés au gaz",
   "title_en": "Gas-Fired System Installation",
   "icon": "🔥",
@@ -3409,6 +3443,8 @@ const COMPETENCIES = [
  {
   "id": "plomb18",
   "order": 18,
+  "code": "307565",
+  "hours": 75,
   "title_fr": "Installation et réparation de systèmes de chauffage par rayonnement",
   "title_en": "Radiant Heating System Installation and Repair",
   "icon": "☀️",
@@ -3607,6 +3643,8 @@ const COMPETENCIES = [
  {
   "id": "plomb19",
   "order": 19,
+  "code": "307578",
+  "hours": 120,
   "title_fr": "Installation et réparation de systèmes à vapeur à basse pression",
   "title_en": "Low-Pressure Steam System Installation and Repair",
   "icon": "🌫️",
@@ -3805,6 +3843,8 @@ const COMPETENCIES = [
  {
   "id": "plomb20",
   "order": 20,
+  "code": "254991",
+  "hours": 15,
   "title_fr": "Organismes de l'industrie de la construction",
   "title_en": "Construction Industry Organizations",
   "icon": "🏛️",
@@ -4003,6 +4043,8 @@ const COMPETENCIES = [
  {
   "id": "plomb21",
   "order": 21,
+  "code": "307581",
+  "hours": 15,
   "title_fr": "Recherche d'emploi",
   "title_en": "Job Search",
   "icon": "📄",
